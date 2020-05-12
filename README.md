@@ -3,8 +3,6 @@ This report and presentation on accessibility were a part of my internship as a 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -23,6 +21,8 @@ List of features ready and TODOs for future development
 
 
 To-do list:
+* add speakernotes
+* correct screenshot and hyperlink
 
 
 ## Status
